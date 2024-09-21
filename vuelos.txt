@@ -1,0 +1,13 @@
+Avianca
+6052-20,6053-30
+6052,AV1120,Bogota,Rio de Janeiro,21/11/2024
+6052,AV1121,Rio de Janeiro,Bogota,12/12/2024
+6053,AV1240,Bogota,Cali,13/10/2024
+6053,AV1242,Medellin,Bucaramanga,10/02/2025
+#
+American Airlines
+2040-25
+2040,AA1120,Bogota,Miami,10/05/2024
+2040,AA1124,Bogota,Miami,19/05/2022
+2040,AA1121,Miami,Madrid,12/12/2024
+#
