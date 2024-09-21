@@ -158,7 +158,7 @@ Una compañía aérea necesita desarrollar un sistema básico para gestionar avi
 
 La compañía aérea ya cuenta con un archivo de texto llamado `vuelos.txt` que contiene información sobre vuelos y aviones. Un ejemplo del archivo es el siguiente:
 
-    ```
+```
     Avianca
     6052-20,6053-30
     6052,AV1120,Bogota,Rio de Janeiro,21/11/2024
@@ -172,7 +172,7 @@ La compañía aérea ya cuenta con un archivo de texto llamado `vuelos.txt` que 
     2040,AA1124,Bogota,Miami,19/05/2022
     2040,AA1121,Miami,Madrid,12/12/2024
     #
-    ```
+```
 Por ejemplo, en la primera línea del archivo se encuentra el nombre de la empresa (Avianca). En la segunda línea se especifican los códigos y el número de asientos de cada avión, separados por el carácter "_".
 
 Si hay más de un avión, se separa por comas; por ejemplo, Avianca tiene dos aviones, el código del primero es 6052 con 20 asientos y el del segundo es 6053 con 30 asientos.
