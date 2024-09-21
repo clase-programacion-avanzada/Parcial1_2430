@@ -1,0 +1,34 @@
+# C++ specific
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.class
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux specific
+*~
+
+# Visual Studio Code specific
+.vscode/
+*.code-workspace
+
+main
+vuelosOrigen.*
