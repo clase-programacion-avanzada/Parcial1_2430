@@ -3,9 +3,12 @@
 #include <string>
 
 using namespace std;
-// Include any necessary headers here
 
-//Punto 1
+/*
+    Punto 1 
+    Definir la estructura Pasajero y Asiento: 
+    Escribir la definición de la estructura Pasajero y Asiento.
+*/
 struct Pasajero {
     string nombre;
     string apellido;

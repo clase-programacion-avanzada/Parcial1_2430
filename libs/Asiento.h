@@ -2,10 +2,11 @@
 #define ASIENTO_H
 #include "Pasajero.h"
 
-// Include any necessary libraries here
-
-// Define your class here
-
+/*
+    Punto 1 
+    Definir la estructura Pasajero y Asiento: 
+    Escribir la definición de la estructura Pasajero y Asiento.
+*/
 struct Asiento {
     int numero;
     bool ocupado;
